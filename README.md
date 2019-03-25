@@ -1,10 +1,14 @@
 # MiraikomachiVRM
 
-# ミライ小町VRMファイル ver 0.81
+## ミライ小町VRMファイル ver 0.81
 
 Copyright (c) BANDAI NAMCO Studios Inc.
 
 Miraikomachi.vrmはVRM対応アプリケーションで開くことができます。
+
+## 0.8からの更新履歴
+
+* SpringBoneのColliderを調整しました。
 
 ## VRM規約
 
