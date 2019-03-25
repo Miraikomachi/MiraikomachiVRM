@@ -30,13 +30,14 @@ https://www.bandainamcostudios.com/works/miraikomachi/index.html
 
 ## LICENSE
 
-ミライ小町ライセンス
+### ミライ小町ライセンス
 
 Copyright (c) BANDAI NAMCO Studios Inc.
 
 本キャラクターガイドラインは、「ミライ小町」のイラスト・画像、3Dモデルデータ、キャラクターの使用に関するガイドラインです。
 
-第1条(使用許諾)
+#### 第1条(使用許諾)
+
 当社は、個人、または同人サークルが「ミライ小町」のイラストを基にした二次創作物を非商用の目的に限って使用することを許諾します。
 「ミライ小町」のオリジナルイラスト及びロゴは、非商用の目的に限り、動画投稿サイトへの動画投稿においてご使用いただけます。
 また、以下の使用については一切禁止いたします。
@@ -46,7 +47,8 @@ Copyright (c) BANDAI NAMCO Studios Inc.
 * 他者の権利を侵害する、または侵害のおそれがある使用
 * 当社公式製品のような誤解を招く使用
 
-第2条 (3Dモデルデータの利用)
+#### 第2条 (3Dモデルデータの利用) 
+
 当社は、個人、または同人サークルが、ミライ小町の3Dモデルデータ(モデルデータ、テクスチャ、音声データ、アニメーションデータ)を、ゲーム、映像、画像制作などの創作活動、研究活動におけるアセット素材として使用することを許諾します。  
 また、法人や地方公共団体であっても、学術発表、教育、技術研究の用途に限りご使用いただけます。  
 ただし、以下の事項は禁止させていただきますのでご了承ください。  
@@ -62,11 +64,12 @@ Copyright (c) BANDAI NAMCO Studios Inc.
 問い合わせ先(miraikomachi@bandainamcostudios.co.jp)  
 当社は、本使用許諾の内容を当社の裁量で適宜変更できるものとします。 
 
-Miraikomachi License Agreements
+### Miraikomachi License Agreements
 
 This Character Guideline is a guideline for the use of Mirai Komachi illustrations, 3D models, and characters.
 
-Article 1 (License)
+#### Article 1 (License)
+
 We authorize individuals or their circles to use secondary creations based on the illustrations of the Mirai Komachi for non-commercial purposes only.
 
 The original Mirai Komachi illustrations and logos can be used for non-commercial purposes only when posting videos to video sites.
@@ -78,7 +81,8 @@ In addition, the following shall be prohibited.
 * Use that infringes or threatens to infringe upon the rights of third party.
 * Misleading uses like our official products
 
-Article 2 (Use of 3D Models)
+#### Article 2 (Use of 3D Models)
+
 We authorize individuals or their circles to use Mirai Komachi's 3D model data (model data, texture, audio data, animation data) as asset material in creative such as games, video and image production and research activities.
 
 In addition, corporations and local public organizations can use the 3D Models only for academic presentations, education, and technical research purposes.
