@@ -8,6 +8,7 @@ Miraikomachi.vrmはVRM対応アプリケーションで開くことができま�
 
 ## 0.8からの更新履歴
 
+* VRMのエクスポートバージョンを0.48から0.51にしました。
 * SpringBoneのColliderを調整しました。
 
 ## VRM規約
