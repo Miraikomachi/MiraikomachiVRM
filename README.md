@@ -1,6 +1,6 @@
 # MiraikomachiVRM
 
-## ミライ小町VRMファイル ver 0.81
+## ミライ小町VRMファイル ver 0.82
 
 Copyright (c) BANDAI NAMCO Studios Inc.
 
