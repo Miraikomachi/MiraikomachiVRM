@@ -2,7 +2,7 @@
 
 ## ミライ小町VRMファイル ver 0.82
 
-Copyright (c) BANDAI NAMCO Studios Inc.
+Copyright (c) Bandai Namco Research Inc.
 
 Miraikomachi.vrmはVRM対応アプリケーションで開くことができます。
 
@@ -42,7 +42,7 @@ https://www.bandainamcostudios.com/works/miraikomachi/index.html
 
 ### ミライ小町ライセンス
 
-Copyright (c) BANDAI NAMCO Studios Inc.
+Copyright (c) Bandai Namco Research Inc.
 
 本キャラクターガイドラインは、「ミライ小町」のイラスト・画像、3Dモデルデータ、キャラクターの使用に関するガイドラインです。
 
